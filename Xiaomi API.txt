@@ -1,0 +1,42 @@
+[
+ {
+  "id": "1",
+  "name": "Xiaomi",
+  "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Xiaomi_logo.svg/480px-Xiaomi_logo.svg.png",
+  "share": 23,
+  "flagshipModel": "Xiaomi Mi 10 256GB",
+  "flagshipModelPrice": 54999
+ },
+ {
+  "id": "2",
+  "name": "Samsung",
+  "poster": "https://cdn.worldvectorlogo.com/logos/samsung-1.svg",
+  "share": 17,
+  "flagshipModel": "Samsung Galaxy Fold",
+  "flagshipModelPrice": 173999
+ },
+ {
+  "id": "3",
+  "name": "Vivo",
+  "poster": "https://m.economictimes.com/thumb/msid-75741298,width-1200,height-900,resizemode-4,imgsize-29606/vivo-agencies.jpg",
+  "share": 15,
+  "flagshipModel": "Vivo X70 Pro Plus",
+  "flagshipModelPrice": 79990
+ },
+ {
+  "id": "4",
+  "name": "Realme",
+  "poster": "https://brandlogos.net/wp-content/uploads/2021/05/realme-logo.png",
+  "share": 15,
+  "flagshipModel": "Realme X50 Pro 256GB",
+  "flagshipModelPrice": 47999
+ },
+ {
+  "id": "5",
+  "name": "Oppo",
+  "poster": "https://i.pinimg.com/originals/9f/c2/60/9fc2604b5e46b15575f807ffacf7c95c.png",
+  "share": 10,
+  "flagshipModel": "Oppo R17 Pro",
+  "flagshipModelPrice": 45990
+ }
+]

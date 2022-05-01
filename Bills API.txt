@@ -1,0 +1,29 @@
+[
+ {
+  "date": "2022-01-26",
+  "billNumber": "1",
+  "category": "Courier",
+  "payee": "DTDC",
+  "amount": "150",
+  "comments": "To Chennai",
+  "id": "1"
+ },
+ {
+  "date": "2022-01-26",
+  "billNumber": "2",
+  "category": "Courier",
+  "payee": "DTDC",
+  "amount": "350",
+  "comments": "To Delhi",
+  "id": "2"
+ },
+ {
+  "date": "2022-01-26",
+  "billNumber": "3",
+  "category": "Stationary",
+  "payee": "RS Stationaries",
+  "amount": "195",
+  "comments": "A4 Sheets",
+  "id": "3"
+ }
+]

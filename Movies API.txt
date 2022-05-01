@@ -1,0 +1,65 @@
+[
+  {
+    "id": "1",
+    "name": "Spiderman",
+    "poster": "https://c4.wallpaperflare.com/wallpaper/1018/281/253/spider-man-tobey-maguire-kirsten-dunst-marvel-comics-wallpaper-preview.jpg",
+    "rating": 7.3,
+    "summary": "When bitten by a genetically modified spider, a nerdy, shy, and awkward high school student gains spider-like abilities that he eventually must use to fight evil as a superhero after tragedy befalls his family.",
+    "trailer": "https://www.youtube.com/watch?v=AiwOet6QfgU",
+	"language" : "english"
+  },
+  {
+    "id": "2",
+    "name": "Mission: Impossible - Fallout",
+    "poster": "https://wallpapersmug.com/download/1600x900/2f01d8/mission-impossible-fallout-5k-key-art.jpg",
+    "rating": 7.7,
+    "summary": "Ethan Hunt and his IMF team, along with some familiar allies, race against time after a mission gone wrong.",
+    "trailer": "https://www.youtube.com/embed/wb49-oV0F78",
+	"language" : "english"
+  },
+  {
+    "id": "3",
+    "name": "Dark Knight",
+    "poster": "https://www.desktopbackground.org/download/2560x1440/2014/07/22/797177_batman-the-dark-knight-poster-movies-film_3840x2160_h.jpg",
+    "rating": 9,
+    "summary": "When the menace known as the Joker wreaks havoc and chaos on the people of Gotham, Batman must accept one of the greatest psychological and physical tests of his ability to fight injustice.",
+    "trailer": "https://www.youtube.com/embed/EXeTwQWrcwY",
+	"language" : "english"
+  },
+  {
+    "id": "4",
+    "name": "Fast and Furious 8",
+    "poster": "https://buzzhub.files.wordpress.com/2017/03/fate-furious-poster-new1.jpg",
+    "rating": 6.6,
+    "summary": "When a mysterious woman seduces Dominic Toretto into the world of terrorism and a betrayal of those closest to him, the crew face trials that will test them as never before.",
+    "trailer": "https://www.youtube.com/embed/uisBaTkQAEs",
+	"language" : "english"
+  },
+  {
+    "id": "5",
+    "name": "Matrix Reloaded",
+    "poster": "https://vistapointe.net/images/the-matrix-reloaded-wallpaper-16.jpg",
+    "rating": 7.2,
+    "summary": "Freedom fighters Neo, Trinity and Morpheus continue to lead the revolt against the Machine Army, unleashing their arsenal of extraordinary skills and weaponry against the systematic forces of repression and exploitation.",
+    "trailer": "https://www.youtube.com/embed/zmYE3tg26Qc",
+	"language" : "english"
+  },
+  {
+    "id": "6",
+    "name": "Bahubali - The Conclusion",
+    "poster": "https://www.bollywoodhungama.com/wp-content/uploads/2017/04/Baahubali-2-The-Conclusion-6.jpg",
+    "rating": 8.2,
+    "summary": "When Shiva, the son of Bahubali, learns about his heritage, he begins to look for answers. His story is juxtaposed with past events that unfolded in the Mahishmati Kingdom.",
+    "trailer": "https://www.youtube.com/embed/G62HrubdD6o",
+	"language" : "telugu"
+  },
+  {
+    "name": "Avatar",
+    "poster": "https://cdn.shopify.com/s/files/1/1416/8662/products/avatar_2009_british_quad_teaser_original_film_art_a.jpg?v=1562542843",
+    "rating": 7.8,
+    "summary": "A paraplegic Marine dispatched to the moon Pandora on a unique mission becomes torn between following his orders and protecting the world he feels is his home.",
+    "trailer": "https://www.youtube.com/embed/5PSNL1qE6VY",
+    "id": "7",
+	"language" : "english"
+  }
+]
